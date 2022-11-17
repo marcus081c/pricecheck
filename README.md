@@ -10,4 +10,5 @@ How to run:
 
 **Windows**
 
-run "Python pricecheck.py" in cmd and enter a url or a file name containing a list of urls separated by new lines. 
+- Run "Python pricecheck.py" in cmd
+- Enter a url or a file name containing a list of urls separated by new lines.
